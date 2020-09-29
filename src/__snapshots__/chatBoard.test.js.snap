@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="chatBoard"
+>
+  <div
+    className="message"
+  >
+    <div>
+      <img
+        alt=""
+      />
+      <h3>
+        Axe Kubicka
+      </h3>
+      <p
+        className="timestamp"
+      >
+        1548852484247
+      </p>
+    </div>
+    <div>
+      <p>
+        Hello world
+      </p>
+    </div>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Caty Flucker
+    </h3>
+    <p>
+      gave a thumbs up!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852484247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Frank Runciman
+    </h3>
+    <p>
+      gave a thumbs down!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852484247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Koren Templeton
+    </h3>
+    <p>
+      raised their hand!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852544247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Koren Templeton
+    </h3>
+    <p>
+      clapped!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852544247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Koren Templeton
+    </h3>
+    <p>
+      joined this session!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852544247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Ashla Attwool
+    </h3>
+    <p>
+      left this session!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852604247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Axe Kubicka
+    </h3>
+    <p>
+      joined the stage!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852664247
+    </p>
+  </div>
+  <div
+    className="event"
+  >
+    <h3>
+      Axe Kubicka
+    </h3>
+    <p>
+      left the stage!
+    </p>
+    <p
+      className="timestamp"
+    >
+      1548852724247
+    </p>
+  </div>
+</div>
+`;
