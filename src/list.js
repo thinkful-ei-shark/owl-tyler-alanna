@@ -7,7 +7,7 @@ export default function List(props){
 
     const inSession = props.participants.filter((participant) => participant.inSession && !participant.onStage);
 
-    const leftSession = props.participant.filter((participant) => !participant.inSession);
+    const leftSession = props.participants.filter((participant) => !participant.inSession);
     //map through the participants array and render each individual
 
     return <div className='list'>
