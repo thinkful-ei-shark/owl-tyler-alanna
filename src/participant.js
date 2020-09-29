@@ -1,4 +1,5 @@
 import React from 'react';
+import './participant.css';
 
 //takes name, avatar, and inSession
 export default function Participant(props){
