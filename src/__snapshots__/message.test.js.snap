@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="event"
+>
+  <h3>
+    test
+  </h3>
+  <p>
+    clapped!
+  </p>
+  <p
+    className="timestamp"
+  >
+    1548852544247
+  </p>
+</div>
+`;
